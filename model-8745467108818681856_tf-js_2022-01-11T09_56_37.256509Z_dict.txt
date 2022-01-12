@@ -1,0 +1,13 @@
+background
+school
+rcc_guard_rail_end
+service_road_start
+restaurant
+open_lined_drain_start
+no_stopping_signs
+religious_place_mosque
+toll_plaza
+open_lined_drain_end
+rcc_guard_rail_start
+other_lamp
+give_way_signs
