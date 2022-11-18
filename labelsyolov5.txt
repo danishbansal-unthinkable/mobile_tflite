@@ -1,0 +1,3 @@
+background
+left_ear_tip
+right_ear_tip
